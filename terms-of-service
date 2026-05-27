@@ -1,0 +1,48 @@
+PRIVACY POLICY & TERMS OF SERVICE FOR PRIVAPOCKET
+Effective Date: May 27, 2026
+
+--- PART 1: PRIVACY POLICY ---
+
+1. INTRODUCTION
+Welcome to PrivaPocket (hereinafter referred to as the "App"). We are fully committed to protecting your personal financial privacy through a strict "offline-first" architectural design. By installing and using this App, you agree to the terms outlined in this document. 
+
+2. LOG DATA AND ZERO-CLOUD ISOLATION
+The App is explicitly engineered to function without external cloud infrastructure or servers. All personal financial records, wallet names, transaction logs, and balances are processed and stored exclusively within a secure local SQLite database on your physical device. We have zero technical means of accessing, reading, intercepting, or collecting your financial logs.
+
+3. THIRD-PARTY SERVICES AND LIMITED ADVERTISING
+To keep core features free, the App integrates Google AdMob to serve limited advertisements. 
+- Rewarded Ads: Users may voluntarily watch a video advertisement in exchange for temporary access to premium features. 
+- Data Collection by Third Parties: Google AdMob may use device identifiers (such as the Google Advertising ID) to serve relevant ads. The App itself does not pass any internal financial data to Google AdMob.
+- Premium Ad Removal: Users who purchase the "Lifetime Pro Unlock" will have all advertisements removed permanently.
+
+4. DEVICE PERMISSIONS USAGE
+- Biometric Authentication: Used solely to gate access to the App interface locally. The App cannot read or store your biometric profiles.
+- Local Storage / Camera Access: Used strictly if you choose to attach a photo of a physical receipt to a transaction.
+
+5. DATA SAFETY COMPLIANCE
+In alignment with Google Play mandates, we declare that no user data is collected by the developer, and no user data is shared with external third parties by the developer.
+
+6. DATA DELETION
+Because your data is entirely localized, you retain absolute control. Uninstalling the application or selecting "Clear Data" in your device settings will permanently wipe all local registries. This action cannot be undone.
+
+--- PART 2: TERMS OF SERVICE & LIABILITY DISCLAIMER ---
+
+7. NOT FINANCIAL ADVICE
+PrivaPocket is provided solely as a personal tracking and informational tool. The developer is not a financial advisor. You are solely responsible for your financial decisions, and the App should not be relied upon for official tax, legal, or accounting purposes.
+
+8. "AS-IS" SOFTWARE AND NO WARRANTIES
+The App is provided on an "AS IS" and "AS AVAILABLE" basis. The developer makes no warranties, expressed or implied, regarding the software's continuous operation, accuracy, or reliability. 
+
+9. LIMITATION OF LIABILITY (HOLD HARMLESS)
+To the maximum extent permitted by applicable law, you agree that the developer shall not be liable for any direct, indirect, incidental, or consequential damages resulting from the use or inability to use the App. 
+Because the App operates 100% offline, you are solely responsible for maintaining your own device backups. The developer cannot be sued and will not be held legally or financially responsible for:
+- Loss of financial data due to app deletion, device failure, or software bugs.
+- Financial losses, overdraft fees, or discrepancies between the App's tracking and your actual bank accounts.
+By using this App, you assume full responsibility for your data and financial tracking.
+
+---
+
+DEVELOPER CONTACT INFORMATION
+For legal compliance or inquiries, please contact:
+Developer Name: Prow Finny
+Contact Email: privpocket@gmail.com
